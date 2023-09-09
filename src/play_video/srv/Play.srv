@@ -1,0 +1,6 @@
+int32 ser_num
+int32 type
+int32 number
+---
+int32 flag
+
